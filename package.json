@@ -1,5 +1,5 @@
 {
-  "name": "sum-numbers",
+  "name": "aks-sum-numbers",
   "version": "1.0.0",
   "description": "sum n count of numbers",
   "main": "app.js",
